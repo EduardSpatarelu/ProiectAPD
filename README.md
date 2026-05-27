@@ -16,7 +16,7 @@ Acest proiect demonstreaza aplicarea filtrelor de convolutie (in special **Edge 
 * **Microsoft Visual Studio 2022:** Mediul de dezvoltare integrat.
 
 ## 👨‍💻 Autor
-Proiect realizat de Eduard.
+SPATARELU EDUARD-STEFAN
 
 ## 🚀 Cum se ruleaza
 1. Proiectul se deschide folosind solutia `.sln` in Visual Studio.
